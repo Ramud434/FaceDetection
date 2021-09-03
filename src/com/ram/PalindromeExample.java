@@ -7,7 +7,7 @@ public class PalindromeExample {
 		int r=0;
 		 int sum = 0;
 		int temp=num;
-		while(num>0);
+		while(num>0)
 		{
 		r=num%10;
 		sum = (sum*10)+r;
